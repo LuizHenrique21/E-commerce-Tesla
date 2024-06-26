@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+*{
+    /*font-family: sans-serif;*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Manrope', sans-serif;
+}
+
+body {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.logo{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    border: none;
+}
+
+.logo:hover{
+    border: none;
+}
+
+#login_form {
+    width: 480px;
+    height: 466px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 36px;
+    border-radius: 32px;
+    gap: 30px;
+    border: 1px solid #000;
+}
+
+#form_header{
+    height: 70px;
+    cursor: default;
+}
+
+.texto{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 110%;
+}
+
+#inputs {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.input-box label {
+    font-size: 14px;
+}
+
+.input-field {
+    display: flex;
+    width: 310px;
+    align-items: center;
+    gap: 15px;
+    padding: 3px;
+    cursor: text;
+    border-bottom: 1px solid #000;
+}
+
+#txt{
+    width: 280px;
+    border: none;
+    font-weight: bold;
+}
+
+#txt:focus{
+    outline: none;
+}
+
+#txt::placeholder {
+    color: black;
+}
+
+.alerta{
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    color: #58151c;
+    background-color: #f8d7da;
+    border: 1px solid #f1aeb5;
+    border-radius: 0.375rem;
+}
+
+.olho{
+    width: 30px;
+    height: 30px;
+    user-select: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;
+    font-weight: 600;
+    border-bottom: 1px solid #000;
+}
+
+a:hover{
+    color: #0000FF;
+    border-bottom: 1px solid #0000FF;
+}
+
+.login_button{
+    width: 414px;
+    height: 40px;
+    border-radius: 32px;
+    background: #1E1E1E;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 2.5px;
+    cursor: pointer;
+    border: none;
+}
+
+.login_button:hover{
+    background-color: #2b2b2b;
+}
+
+@media (max-width: 722px){
+    .logo{
+        width: 90px;
+        height: 90px;
+    }
+}
