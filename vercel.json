@@ -1,0 +1,15 @@
+{
+    "functions": {
+      "api": {
+        "runtime": "python3.8.8",
+        "memory": 128,
+        "includeFiles": ["requirements.txt"],
+        "npm": {
+          "dependencies": {
+            "python": "^1.0.0"
+          }
+        }
+      }
+    }
+  }
+  
