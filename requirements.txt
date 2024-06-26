@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 blinker==1.8.2
 click==8.1.7
 colorama==0.4.6
@@ -13,3 +14,9 @@ SQLAlchemy==2.0.31
 typing_extensions==4.12.2
 Werkzeug==3.0.3
 WTForms==3.1.2
+=======
+flask==3.0.3
+flask_sqlalchemy==3.1.1
+flask_login==0.6.3
+flask_wtf==1.2.1
+>>>>>>> 8b7001a3e75c018bcd59522c1757097ce381ca49
