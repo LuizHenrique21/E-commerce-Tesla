@@ -131,4 +131,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ---
 
+<<<<<<< HEAD
 Esperamos que você aproveite a experiência de compra de veículos Tesla em nosso e-commerce! Se tiver alguma dúvida ou sugestão, não hesite em nos contatar.
+=======
+Esperamos que você aproveite a experiência de compra de veículos Tesla em nosso e-commerce! Se tiver alguma dúvida ou sugestão, não hesite em nos contatar.
+>>>>>>> 9e10266bfcd54809525cf57c7df782b91cc9e6f2
