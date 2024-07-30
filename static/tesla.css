@@ -64,7 +64,7 @@ a:hover{
     color: #1E1E1E;
 }
 
-.coisinhas{
+.acessos{
     width: 10rem;
     position: relative;
     display: flex;
@@ -89,7 +89,7 @@ a:hover{
     width: 200px;
     /* height: 230px; */
     top: 40px;
-    padding: 1rem;
+    padding-bottom: 1rem;
     overflow: auto;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     background-color: #1E1E1E;
@@ -229,6 +229,7 @@ a:hover{
     border: none;
     cursor: pointer;
     color: #fff;
+    padding: 10px;
     font-family: Manrope;
     font-size: 18px;
     font-weight: 600;
@@ -423,4 +424,18 @@ a:hover{
     font-family: 'Fira code', sans-serif;
     font-size: 24px;
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 40px;
+}
+
+.autor{
+    margin-left: -40px;
+}
+
+.insta{
+    position: absolute;
+    margin-top: -5px;
+    cursor: pointer;
 }
