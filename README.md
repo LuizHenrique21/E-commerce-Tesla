@@ -38,7 +38,7 @@ Bem-vindo ao e-commerce de carros elétricos da Tesla! Este projeto oferece uma 
 ### Passos para Instalação
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/usuario/E-commerce-Tesla.git
+   git clone https://github.com/LuizHenrique21/E-commerce-Tesla.git
    ```
 2. Navegue até o diretório do projeto:
    ```sh
