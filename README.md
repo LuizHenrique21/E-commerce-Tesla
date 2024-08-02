@@ -104,7 +104,7 @@ E-commerce-Tesla/
 ## Espaço para Prints
 
 # Página Inicial
-##![tela inicial](https://github.com/user-attachments/assets/8f9423cd-b3bc-4437-a750-c8c53a94daf1)
+![tela inicial](https://github.com/user-attachments/assets/8f9423cd-b3bc-4437-a750-c8c53a94daf1)
 
 ### Página de Detalhes do Veículo
 Model Y
